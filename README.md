@@ -40,3 +40,40 @@
 
 2.2 Структурные шаблоны. Proxy, Decorator, Adapter (Structural patterns)
 - [Калькулятор (Calculator)](https://github.com/AASukhov/adapter_Calc).
+- [Двоичный фасад (Binary facade)](https://github.com/AASukhov/facade_Binary).
+
+2.3 Поведенческие шаблоны. Command, Iterator, Observer, Chain of Responsibility (Behavior patterns)
+- [Бесконечная итерация (Infinite iteration)](https://github.com/AASukhov/HW_Iteration).
+
+2.4 Magics, DRY, SOLID
+- [Магазин (Shop)](https://github.com/AASukhov/Magic_numbers).
+
+## 3. Multithreading and functional programming
+
+3.1 Многопоточное (параллельное) программирование. Создание и запуск потоков. (Multithreading. Creating and running of treads)
+- [Межпоточный диалог (Interthread dialogue)](https://github.com/AASukhov/Thread_1).
+- [Межпоточный диалог со счетчиком (Interthread dialogue with counter)](https://github.com/AASukhov/Thread_2).
+
+3.2 Работа с синхронизацией. Synchronization, wait, notify, sleep, lock. (Working with synchronization)
+- [Автосалон (Car showroom)](https://github.com/AASukhov/1.2-SimpleAutoSaloon).
+- [Продвинутый автосалон (Improved car showroom)](https://github.com/AASukhov/1.2-ImprovedAutosaloon).
+
+3.3 Volatile, threadlocal atomics
+- [Самая бесполезная коробка (The most useless box)](https://github.com/AASukhov/UselessBox).
+- [Отчет для налоговой (Report for tax service)](https://github.com/AASukhov/TaxCount).
+
+3.4 Коллекции для параллельной (конкурирующей) работы (Collections for parallel (competing) work)
+- [Колл-центр (Call-center)](https://github.com/AASukhov/ConcurrentCollections1).
+
+3.5 Клиент-серверное взаимодействие. Blocking и Non-Blocking IO (Client-server interaction)
+- [Тяжелые вычисления (Difficult computing)](https://github.com/AASukhov/NIO-blocking-1).
+- [Долой пробелы (Down gaps)](https://github.com/AASukhov/NIO-blocking-2).
+
+3.6 Функциональное программирование (Functional programming)
+- [Генератор словаря (Dictionary generator)](https://github.com/AASukhov/FunctionalProg_1).
+- [Кадастровый помощник (Cadastral assistant)](https://github.com/AASukhov/FunctionalProg_2).
+
+3.7 Методологии программирования. TDD (Programming methodologies)
+- [Разработка через тестирование (Test driven development)](https://github.com/AASukhov/Credit_Calculator).
+
+## 4. Web, Spring & Spring MVC
