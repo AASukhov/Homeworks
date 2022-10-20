@@ -1,5 +1,5 @@
 # Домашние работы (Homeworks)
-## 1. Java_Core
+## 1. Java Core
 
 1.1 Лямбда-выражения и функциональные интерфейсы (Lambda expressions and functional interfaces)
 - [Калькулятор (Calculator)](https://github.com/AASukhov/Task1_Calculator).
