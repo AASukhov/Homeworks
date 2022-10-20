@@ -77,3 +77,52 @@
 - [Разработка через тестирование (Test driven development)](https://github.com/AASukhov/Credit_Calculator).
 
 ## 4. Web, Spring & Spring MVC
+
+4.1 HTTP и современный Web (HTTP and Web)
+- [Refactoring & MultiThreading](https://github.com/AASukhov/1.1-HTTP-WEB).
+
+4.2 Формы и форматы передачи данных (Forms and formats of data transmission)
+- [Forms and formats](https://github.com/AASukhov/1.1-HTTP-WEB/tree/feature/query).
+
+4.3 Servlet containers 
+- [CRUD](https://github.com/AASukhov/JavaSpring_4_-Servlets/tree/AASukhov-patch-1).
+
+4.4 Dependency Lookup, Dependency Injection, IoC, Spring, Application Context
+- [DI](https://github.com/AASukhov/JavaSpring_4_-Servlets/pulls).
+
+## 5. Spring Boot, deployment and infrastructure
+
+5.1 Spring Boot: назначение, внутреннее устройство (Spring Boot: purpose, internals)
+- [Conditional приложение (Conditional application)](https://github.com/AASukhov/SpringBoot-1).
+
+5.2 REST
+- [Сервис авторизации (Authorization service)](https://github.com/AASukhov/Spring_boot_REST).
+
+5.3 Разворачивание Spring Boot приложений (nginx, systemd, firewall, journalctl) (Sprıng Boot API's deployment)
+- [Прокси на nginx (Proxy on nginx)](https://github.com/AASukhov/Spring_boot_REST/tree/nginx).
+
+5.4 Основы работы: Docker, Docker Compose, упаковка приложений (Docker, Docker Compose, app packaging)
+- [Dockerfile](https://github.com/AASukhov/Spring_boot_REST/tree/docker).
+
+5.5 Обзорная лекция: TestContainers, Kubernetes, облака (TestContainers, Kubernetes, clouds)
+- [Интеграционное тестирование (Integration test)](https://github.com/AASukhov/SpringBoot-1/tree/testcontainers).
+
+## 6. Data storage and security
+
+6.1 Основы работы: DDL, DML (DDL, DML)
+- [Таблица пользователей (User Table)](https://github.com/AASukhov/SQL_DDL).
+
+6.2 Вложенные подзапросы, JOIN'ы, агрегирующие запросы (Queries, JOIN, Subqueries)
+- [Две таблицы (Two tables)](https://github.com/AASukhov/SQL_JOIN).
+
+6.3 JDBC API, JdbcTemplate, NamedParametersJdbcTemplate
+- [DAO слой (DAO layer)](https://github.com/AASukhov/JDBC).
+
+6.4 Spring JPA Repositories, JPQL
+- [DAO слой c JPA Repositories (DAO layer with JPA)](https://github.com/AASukhov/DAO_Hibernate/tree/jpa-repository).
+
+6.5 Безопасность в веб-приложениях, Spring Security (Security in Web Apps, Spring Security)
+- [Безопасное приложение (Safe app)](https://github.com/AASukhov/DAO_Hibernate/tree/spring-security).
+
+6.6 Method security. OAuth2
+- [Безопасные методы (Safe methods)](https://github.com/AASukhov/DAO_Hibernate/tree/spring-method).
